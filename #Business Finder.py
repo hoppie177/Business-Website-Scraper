@@ -2,7 +2,7 @@ import requests
 import csv
 import time
 
-API_KEY = "AIzaSyDqTOmB1_F_93FFxbS4ub5pj2CyzrDHlLc"
+API_KEY = "YOUR API KEY"
 TYPE = "plumber"  # Change to 'restaurant', 'store', etc.
 RADIUS = 2500  # Smaller radius for ZIP-level targeting
 
